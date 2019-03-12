@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Game Rock Scissors Paper</string>
+    <string name="human_choice">Human choice</string>
+    <string name="computer_choice">Computer choice</string>
+    <string name="draw">Draw. Nobody won(</string>
+    <string name="title_activity_logo">LogoActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_score">ScoreActivity</string>
+    <string name="title_activity_game">GameActivity</string>
+</resources>
